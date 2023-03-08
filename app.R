@@ -125,7 +125,7 @@ server <- function(input, output, session) {
     tags$a(
       tags$i(class = "fab fa-github"),
       "View instructions or report bugs",
-      href = "https://github.com/zhuxr11/prolong-cyclic-scheduler",
+      href = "https://github.com/zhuxr11/prolong-cyclic-scheduler#instructions",
       target = "_blank"
     )
   ))
